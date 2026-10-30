@@ -1,3 +1,2 @@
-# Analysis of Postseason Atlanta Braves hitting.
-A dashboard to compare the Atlanta Braves hitting statistics during
-their 2026 Postseason run compared to previous years until 2021.
+# Analysis of Air Pollution by State.
+A dashboard to compare air pollution in micrograms per cubic meter in various States in the U.S in 2020.
